@@ -1,3 +1,3 @@
 # renamerthingy
 
-sum FiveM Renamer thingy i made to remove the anooying ahh FiveM stuff behind them files cuz ima lazy ahh. Made it mainly to change the FiveM Clothing name to a normal sht. So bacially it removes the "mp_m_freemode_01_mp_m" of a file so it can just be pasted into the Regular GTAV. Hope you understand what i mean lmao
+made this cuz im lazy asf. Removes the "mp_m_freemode_01_mp" of FiveM made clothing files into just regular normal naming. Espacially usefull if u downloaded multiple stuff that just takes to long to rename yourself i guess. ass tier script dont hate
